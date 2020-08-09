@@ -1,0 +1,35 @@
+Sunday, 09-Aug-2020 11:28:28 - restore started
+Sunday, 09-Aug-2020 11:28:28 - wp version     : 5.4
+Sunday, 09-Aug-2020 11:28:28 - php version    : 7.3.12
+Sunday, 09-Aug-2020 11:28:28 - mysql version  : 5.5.5
+Sunday, 09-Aug-2020 11:28:28 - memory limit   : 1024M
+Sunday, 09-Aug-2020 11:28:28 - execution time : 600
+Sunday, 09-Aug-2020 11:28:28 - mysql timeout  : 
+Sunday, 09-Aug-2020 11:28:28 - socket timeout : 600
+Sunday, 09-Aug-2020 11:28:28 - file download started
+Sunday, 09-Aug-2020 11:28:29 - download finished, filesize - 69.51 MB
+Sunday, 09-Aug-2020 11:28:29 - extracting database using ziparchive
+Sunday, 09-Aug-2020 11:28:29 - database import started
+Sunday, 09-Aug-2020 11:28:30 - updating mysql query with current site's url - new query : "INSERT INTO wp_options VALUES("1", "siteurl", "http://localhost/port_folio", "yes")"
+Sunday, 09-Aug-2020 11:28:30 - mysql query failed. error : 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '".main-header-bar {
+    background-color:  rgb(17 207 222 / 75%)' at line 1 - query : "INSERT INTO wp_posts VALUES("384", "1", "2020-08-09 07:48:47", "2020-08-09 07:48:47", ".main-header-bar {
+    background-color:  rgb(17 207 222 / 75%)"
+Sunday, 09-Aug-2020 11:28:30 - mysql query failed. error : 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'border-bottom-color: #9938afdb' at line 1 - query : "border-bottom-color: #9938afdb"
+Sunday, 09-Aug-2020 11:28:30 - mysql query failed. error : 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'border-bottom-style: solid' at line 1 - query : "border-bottom-style: solid"
+Sunday, 09-Aug-2020 11:28:30 - mysql query failed. error : 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '}", "astra", "", "publish", "closed", "closed", "", "astra", "", "", "2020-08-09' at line 1 - query : "}", "astra", "", "publish", "closed", "closed", "", "astra", "", "", "2020-08-09 07:48:47", "2020-08-09 07:48:47", "", "0", "http://localhost/myportfolio/astra/", "0", "custom_css", "", "0")"
+Sunday, 09-Aug-2020 11:28:30 - mysql query failed. error : 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '".main-header-bar {
+    background-color:  rgb(17 207 222 / 75%)' at line 1 - query : "INSERT INTO wp_posts VALUES("385", "1", "2020-08-09 07:48:47", "2020-08-09 07:48:47", ".main-header-bar {
+    background-color:  rgb(17 207 222 / 75%)"
+Sunday, 09-Aug-2020 11:28:30 - mysql query failed. error : 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'border-bottom-color: #9938afdb' at line 1 - query : "border-bottom-color: #9938afdb"
+Sunday, 09-Aug-2020 11:28:30 - mysql query failed. error : 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'border-bottom-style: solid' at line 1 - query : "border-bottom-style: solid"
+Sunday, 09-Aug-2020 11:28:30 - mysql query failed. error : 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '}", "astra", "", "inherit", "closed", "closed", "", "384-revision-v1", "", "", "' at line 1 - query : "}", "astra", "", "inherit", "closed", "closed", "", "384-revision-v1", "", "", "2020-08-09 07:48:47", "2020-08-09 07:48:47", "", "384", "http://localhost/myportfolio/384-revision-v1/", "0", "revision", "", "0")"
+Sunday, 09-Aug-2020 11:28:31 - mysql query failed. error : 1065 Query was empty - query : ""
+Sunday, 09-Aug-2020 11:28:31 - database import finished
+Sunday, 09-Aug-2020 11:28:31 - search and replace started
+Sunday, 09-Aug-2020 11:28:31 - there are 57 tables to scan
+Sunday, 09-Aug-2020 11:28:33 - search and replace finished
+Sunday, 09-Aug-2020 11:28:33 - extracting archive using ziparchive
+Sunday, 09-Aug-2020 11:28:57 - copying files..
+Sunday, 09-Aug-2020 11:29:21 - deleting temp directory..
+Sunday, 09-Aug-2020 11:29:22 - deleting downloaded zip file..
+Sunday, 09-Aug-2020 11:29:22 - restore finished

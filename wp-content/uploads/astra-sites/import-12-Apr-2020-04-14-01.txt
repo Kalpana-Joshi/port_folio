@@ -1,0 +1,309 @@
+
+Inserted WP Form 2748
+Imported Customizer Settings {"astra-settings":{"blog-single-post-structure":["single-image","single-title-meta"],"blog-single-width":"default","blog-single-max-width":1200,"blog-single-meta":["comments","category","author"],"blog-post-structure":["image","title-meta"],"blog-width":"default","blog-max-width":1200,"blog-post-content":"excerpt","blog-meta":["comments","category","author"],"text-color":"#3a3a3a","link-color":"#f01887","theme-color":"#f01887","link-h-color":"#3a3a3a","footer-bg-obj":{"background-color":"","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"footer-color":"","footer-link-color":"","footer-link-h-color":"","footer-adv-bg-obj":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"footer-adv-text-color":"","footer-adv-link-color":"","footer-adv-link-h-color":"","footer-adv-wgt-title-color":"#f01887","button-color":"#f01887","button-h-color":"#ffffff","button-bg-color":"rgba(0,0,0,0)","button-bg-h-color":"#f01887","theme-button-padding":{"desktop":{"top":15,"right":30,"bottom":15,"left":30},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""},"desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"button-radius":5,"theme-button-border-group-border-size":{"top":"2","right":"2","bottom":"2","left":"2"},"footer-sml-layout":"footer-sml-layout-2","footer-sml-section-1":"custom","footer-sml-section-1-credit":"Copyright \u00a9 [current_year] [site_title]","footer-sml-section-2":"custom","footer-sml-section-2-credit":"Powered by [site_title]","footer-sml-dist-equal-align":true,"footer-sml-divider":"1","footer-sml-divider-color":"#5b5b5b","footer-layout-width":"content","ast-header-retina-logo":"https:\/\/websitedemos.net\/makeup-artist-uabb-free\/wp-content\/uploads\/sites\/81\/2017\/09\/make-up-logo@2x-free-img.png","ast-header-logo-width":"","ast-header-responsive-logo-width":{"desktop":"","tablet":"","mobile":""},"display-site-title":false,"display-site-tagline":false,"logo-title-inline":0,"disable-primary-nav":false,"header-layouts":"header-main-layout-1","header-main-rt-section":"widget","header-display-outside-menu":false,"header-main-rt-section-html":"","header-main-rt-section-button-text":"Button","header-main-rt-section-button-link":"https:\/\/www.wpastra.com","header-main-rt-section-button-link-option":{"url":"https:\/\/www.wpastra.com","new_tab":false,"link_rel":""},"header-main-rt-section-button-style":"theme-button","header-main-rt-section-button-text-color":"","header-main-rt-section-button-back-color":"","header-main-rt-section-button-text-h-color":"","header-main-rt-section-button-back-h-color":"","header-main-rt-section-button-padding":{"desktop":{"top":"","right":"","bottom":"","left":""},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""}},"header-main-rt-section-button-border-size":{"top":"","right":"","bottom":"","left":""},"header-main-sep":"0","header-main-sep-color":"","header-main-layout-width":"content","primary-submenu-border":{"top":"1","bottom":"1","left":"1","right":"1"},"primary-submenu-item-border":1,"primary-submenu-b-color":"#eaeaea","primary-submenu-item-b-color":"#eaeaea","header-main-menu-label":"","header-main-menu-align":"inline","header-main-submenu-container-animation":"","mobile-header-breakpoint":"","mobile-header-logo":"","mobile-header-logo-width":"","site-layout":"ast-full-width-layout","site-content-width":1200,"site-layout-outside-bg-obj":{"background-color":"#f7f7f7","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"site-content-layout":"boxed-container","single-page-content-layout":"default","single-post-content-layout":"default","archive-post-content-layout":"default","body-font-family":"'Roboto', sans-serif","body-font-variant":"400","body-font-weight":"400","font-size-body":{"desktop":"15","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"body-line-height":"1.6","para-margin-bottom":"0.7","body-text-transform":"","headings-font-family":"'Roboto', sans-serif","headings-font-weight":"400","headings-text-transform":"","headings-line-height":"","font-size-site-title":{"desktop":35,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-site-tagline":{"desktop":15,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-entry-title":{"desktop":30,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-archive-summary-title":{"desktop":40,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-page-title":{"desktop":"30","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h1":{"desktop":"48","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h2":{"desktop":"42","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h3":{"desktop":"30","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h4":{"desktop":"22","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h5":{"desktop":18,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h6":{"desktop":"17","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"site-sidebar-layout":"no-sidebar","site-sidebar-width":30,"single-page-sidebar-layout":"default","single-post-sidebar-layout":"default","archive-post-sidebar-layout":"default","footer-adv":"layout-4","footer-adv-border-width":"","footer-adv-border-color":"#7a7a7a","mobile-header-toggle-btn-style":"fill","hide-custom-menu-mobile":0,"mobile-header-toggle-target":"icon","transparent-header-logo":"","transparent-header-retina-logo":"","different-transparent-logo":0,"different-transparent-retina-logo":false,"transparent-header-logo-width":{"desktop":"","tablet":"","mobile":""},"transparent-header-enable":0,"transparent-header-disable-archive":1,"transparent-header-disable-latest-posts-index":1,"transparent-header-on-devices":"both","transparent-header-main-sep":0,"transparent-header-main-sep-color":"","transparent-header-bg-color":"","transparent-header-color-site-title":"","transparent-header-color-h-site-title":"","transparent-menu-bg-color":"","transparent-menu-color":"","transparent-menu-h-color":"","transparent-submenu-bg-color":"","transparent-submenu-color":"","transparent-submenu-h-color":"","transparent-header-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-header-color-site-title-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-header-color-h-site-title-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-menu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-menu-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-menu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-submenu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-submenu-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-submenu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-content-section-text-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-content-section-link-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-content-section-link-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-font-family":"inherit","breadcrumb-font-weight":"inherit","breadcrumb-text-transform":"","breadcrumb-text-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-active-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-hover-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-separator-color":{"desktop":"","tablet":"","mobile":""},"breadcrumb-bg-color":{"desktop":"","tablet":"","mobile":""},"breadcrumb-spacing":{"desktop":{"top":"","right":"","bottom":"","left":""},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""},"desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"h1-color":"","h2-color":"","h3-color":"","h4-color":"","h5-color":"","h6-color":"","font-family-h1":"'Dancing Script', handwriting","font-weight-h1":"700","text-transform-h1":"","line-height-h1":"","font-family-h2":"'Dancing Script', handwriting","font-weight-h2":"700","text-transform-h2":"","line-height-h2":"","font-family-h3":"inherit","font-weight-h3":"inherit","text-transform-h3":"","line-height-h3":"","font-weight-button":"inherit","font-family-button":"inherit","font-size-button":{"desktop":"16","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"text-transform-button":"","theme-btn-line-height":"1","theme-btn-letter-spacing":"","header-main-rt-section-search-box-type":"slide-search","below-header-section-2-search-box-type":"slide-search","below-header-section-1-search-box-type":"slide-search","above-header-section-1-search-box-type":"slide-search","above-header-section-2-search-box-type":"slide-search","theme-auto-version":"2.3.1","site-layout-outside-bg-color":"#ffffff","button-v-padding":15,"button-h-padding":30,"woocommerce-content-layout":"default","woocommerce-sidebar-layout":"default","shop-grids":{"desktop":3,"tablet":2,"mobile":1},"shop-no-of-products":"9","astra-addon-auto-version":"2.3.2","above-header-merge-menu":true,"below-header-merge-menu":true,"header-bg-obj":{"background-color":""},"content-bg-obj":{"background-color":"#ffffff"},"above-header-bg-obj":{"background-color":""},"below-header-bg-obj":{"background-color":""},"header-bg-obj-responsive":{"desktop":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"tablet":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"mobile":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"}},"above-header-bg-obj-responsive":{"desktop":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"tablet":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"mobile":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"}},"below-header-bg-obj-responsive":{"desktop":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"tablet":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"mobile":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"}},"primary-menu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"primary-menu-color-responsive":{"desktop":"","tablet":"","mobile":""},"primary-menu-h-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"primary-menu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"primary-menu-a-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"primary-menu-a-color-responsive":{"desktop":"","tablet":"","mobile":""},"primary-submenu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"primary-submenu-color-responsive":{"desktop":"","tablet":"","mobile":""},"primary-submenu-h-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"primary-submenu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"primary-submenu-a-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"primary-submenu-a-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-text-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-link-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-link-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-menu-bg-color":{"desktop":"","tablet":"","mobile":""},"above-header-menu-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-menu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-menu-h-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-menu-active-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-menu-active-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-submenu-text-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-submenu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-submenu-hover-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-submenu-bg-hover-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-submenu-active-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-submenu-active-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"below-header-text-color-responsive":{"desktop":"#ffffff","tablet":"","mobile":""},"below-header-link-hover-color-responsive":{"desktop":"#ffffff","tablet":"","mobile":""},"below-header-link-color-responsive":{"desktop":"#ffffff","tablet":"","mobile":""},"below-header-menu-text-color-responsive":{"desktop":"#ffffff","tablet":"","mobile":""},"below-header-menu-text-hover-color-responsive":{"desktop":"#ffffff","tablet":"","mobile":""},"below-header-menu-bg-hover-color-responsive":{"desktop":"#575757","tablet":"","mobile":""},"below-header-current-menu-text-color-responsive":{"desktop":"#ffffff","tablet":"","mobile":""},"below-header-current-menu-bg-color-responsive":{"desktop":"#575757","tablet":"","mobile":""},"below-header-submenu-text-color-responsive":{"desktop":"","tablet":"","mobile":""},"below-header-submenu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"below-header-submenu-hover-color-responsive":{"desktop":"","tablet":"","mobile":""},"below-header-submenu-bg-hover-color-responsive":{"desktop":"","tablet":"","mobile":""},"below-header-submenu-active-color-responsive":{"desktop":"","tablet":"","mobile":""},"below-header-submenu-active-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-menu-align":"inline","below-header-menu-align":"inline","primary-menu-bg-obj-responsive":{"desktop":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"tablet":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"mobile":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"}},"above-header-menu-bg-obj-responsive":{"desktop":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"tablet":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"mobile":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"}},"mobile-above-header-toggle-btn-style":"fill","mobile-below-header-toggle-btn-style":"fill","sticky-header-color-site-title-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-header-color-site-tagline-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-header-color-h-site-title-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-header-bg-color-responsive":{"desktop":"rgba(255,255,255,1)","tablet":"","mobile":""},"sticky-header-menu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-header-menu-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-header-menu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-header-menu-h-a-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-header-submenu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-header-submenu-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-header-submenu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-header-submenu-h-a-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-below-header-bg-color-responsive":{"desktop":"rgba(65,64,66,1)","tablet":"","mobile":""},"sticky-below-header-menu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-below-header-menu-color-responsive":{"desktop":"#ffffff","tablet":"","mobile":""},"sticky-below-header-menu-h-color-responsive":{"desktop":"#ffffff","tablet":"","mobile":""},"sticky-below-header-menu-h-a-bg-color-responsive":{"desktop":"#575757","tablet":"","mobile":""},"sticky-below-header-submenu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-below-header-submenu-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-below-header-submenu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-below-header-submenu-h-a-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-above-header-bg-color-responsive":{"desktop":"rgba(255,255,255,1)","tablet":"","mobile":""},"sticky-above-header-menu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-above-header-menu-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-above-header-menu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-above-header-menu-h-a-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-above-header-submenu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-above-header-submenu-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-above-header-submenu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-above-header-submenu-h-a-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"different-sticky-retina-logo":false,"different-retina-logo":"1","include-headings-in-typography":true,"above-header-submenu-border":{"top":"1","bottom":"1","left":"1","right":"1"},"above-header-submenu-item-border":1,"below-header-submenu-border":{"top":"1","bottom":"1","left":"1","right":"1"},"below-header-submenu-item-border":1,"above-nav-menu-pointer-effect":"none","below-nav-menu-pointer-effect":"none","above-header-submenu-border-color":"#eaeaea","below-header-submenu-container-animation":"","above-header-submenu-container-animation":"","nav-menu-pointer-effect":"none","submenu-below-header":false,"above-header-submenu-item-b-color":"#eaeaea","wc-header-cart-header-colors":false,"shop-quick-view-stick-cart":true,"_astra_pb_compatibility_completed":true,"is_theme_queue_running":false,"submenu-open-below-header":false,"is_addon_queue_running":true,"headings-font-variant":"400","heading-base-color":"#f01887","theme-button-border-group-border-color":"#f01887","theme-button-border-group-border-h-color":"#f01887","is_astra_addon_queue_running":false},"custom-css":"\/*\nYou can add your own CSS here.\n\nClick the help icon above to learn more.\n*\/\n"}
+Importing from XML https://websitedemos.net/wp-content/uploads/astra-sites/81/wxr.xml
+Inserted - Term 19 - {"term_id":19,"name":"Primary","slug":"primary","term_group":0,"term_taxonomy_id":19,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Post 2752 - page - Home
+Inserted - Post 43 - page - About
+Inserted - Post 44 - page - Services
+Inserted - Post 2753 - page - Portfolio
+Inserted - Post 46 - page - Contact
+Inserted - Post 51 - nav_menu_item - 
+Inserted - Post 52 - nav_menu_item - 
+Inserted - Post 53 - nav_menu_item - 
+Inserted - Post 54 - nav_menu_item - 
+Inserted - Post 127 - attachment - Makeup-Kit-free-img
+Inserted - Post 128 - attachment - Makeup-doingmakeup-free-img
+Inserted - Post 219 - attachment - Hot-stones-free-img
+Inserted - Post 223 - attachment - Salon-free-img
+Inserted - Post 224 - attachment - Nail-free-img
+Inserted - Post 262 - attachment - Working On Bridal Makeup
+Inserted - Post 272 - attachment - Hair Color
+Inserted - Post 311 - nav_menu_item - 
+Inserted - Post 2754 - attachment - Makeup Kit
+Inserted - Post 411 - attachment - Engagement Ring Icon
+Inserted - Post 412 - attachment - Lipstick Icon
+Inserted - Post 413 - attachment - Photo Camera Icon
+Inserted - Post 414 - attachment - Romantic Music Icon
+Inserted - Post 438 - attachment - Cosmetics Kits Icon
+Inserted - Post 440 - attachment - Kiss Icon
+Inserted - Post 441 - attachment - Relax icon
+Inserted - Post 496 - custom_css - astra
+Inserted - Post 511 - attachment - Nail-paint-free-img
+Inserted - Post 512 - attachment - Working-on-makeup-free-img
+Inserted - Post 513 - attachment - Bride-gallery-free-img
+Inserted - Post 518 - attachment - Model Makeup
+Inserted - Post 628 - attachment - Glitter Background
+Inserted - Post 873 - attachment - Number 1 Icon
+Inserted - Post 874 - attachment - Number 2 Icon
+Inserted - Post 875 - attachment - Number 3 Icon
+Inserted - Post 882 - attachment - Favicon-free-img
+Inserted - Post 899 - attachment - make-up-logo-free-img
+Inserted - Post 901 - attachment - make-up-logo@2x-free-img
+Inserted - Post 1051 - attachment - home-banner
+Inserted - Post 1052 - attachment - models
+Inserted - Post 1053 - attachment - bridal-makeup3
+Inserted - Post 1054 - attachment - bridal-makeup2
+Inserted - Post 1055 - attachment - bridal-makeup1
+Inserted - Post 1058 - attachment - profile-image
+Inserted - Post 1059 - attachment - artist1
+Inserted - Post 1060 - attachment - artist2
+Inserted - Post 1061 - attachment - artist3
+Inserted - Post 1064 - attachment - before1
+Inserted - Post 1065 - attachment - after1
+Inserted - Post 1066 - attachment - before2
+Inserted - Post 1067 - attachment - after2
+Inserted - Post 1077 - attachment - makeup-artist-yoast-seo
+Imported - Site Options {"woocommerce_product_attributes":[],"woocommerce_product_cat_list":[],"woocommerce_product_cat":[],"custom_logo":"https:\/\/websitedemos.net\/makeup-artist-01\/wp-content\/uploads\/sites\/81\/2017\/09\/make-up-logo-free-img.png","nav_menu_locations":{"primary":"primary"},"show_on_front":"page","page_on_front":"Home","page_for_posts":"","_fl_builder_enabled_icons":null,"_fl_builder_enabled_modules":null,"_fl_builder_post_types":null,"_fl_builder_color_presets":["f01887","ffffff","3c3c3c","808285"],"_fl_builder_services":null,"_fl_builder_settings":null,"_fl_builder_user_access":null,"_fl_builder_enabled_templates":null,"elementor_container_width":null,"elementor_cpt_support":null,"elementor_css_print_method":null,"elementor_default_generic_fonts":null,"elementor_disable_color_schemes":null,"elementor_disable_typography_schemes":null,"elementor_editor_break_lines":null,"elementor_exclude_user_roles":null,"elementor_global_image_lightbox":null,"elementor_page_title_selector":null,"elementor_scheme_color":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70"},"elementor_scheme_color-picker]":{"1":"#808285","2":"#54595f","3":"#7a7a7a","4":"#61ce70","5":"#4054b2","6":"#23a455","7":"#f01887","8":"#3c3c3c"},"elementor_scheme_typography":{"1":{"font_family":"","font_weight":"600"},"2":{"font_family":"","font_weight":"400"},"3":{"font_family":"","font_weight":"400"},"4":{"font_family":"","font_weight":"500"}},"elementor_space_between_widgets":null,"elementor_stretched_section_container":null,"elementor_load_fa4_shim":"yes","woocommerce_shop_page_title":"","woocommerce_cart_page_title":"","woocommerce_checkout_page_title":"","woocommerce_myaccount_page_title":"","woocommerce_edit_address_page_title":"","woocommerce_view_order_page_title":"","woocommerce_change_password_page_title":"","woocommerce_logout_page_title":"","woocommerce_enable_guest_checkout":null,"woocommerce_enable_checkout_login_reminder":null,"woocommerce_enable_signup_and_login_from_checkout":null,"woocommerce_enable_myaccount_registration":null,"woocommerce_registration_generate_username":null,"wpforms_settings":{"disable-css":"2","global-assets":false,"gdpr":false},"learndash_settings_theme_ld30":null,"learndash_settings_courses_themes":null}
+Inserted - Post 2755 - attachment - make-up-logo-free-img
+Imported - Widgets {"sidebar-1":{"search-2":{"title":""},"recent-posts-2":{"title":"","number":5},"recent-comments-2":{"title":"","number":5},"archives-2":{"title":"","count":0,"dropdown":0},"categories-2":{"title":"","count":0,"hierarchical":0,"dropdown":0},"meta-2":{"title":""}},"header-widget":{"astra-widget-list-icons-2":{"title":"","space_btn_list":"","space_btn_icon_text":"10","divider":"no","divider_style":"solid","divider_weight":"","divider_color":"","icon_color":"#f01887","background_color":"","width":"15","list":[{"title":"+1 916-875-2235","link":"#","link-target":"same-page","nofollow":"disable","imageoricon":"icon","image":"","icon":"{\"name\":\"phone\",\"path\":\"M493.4 24.6l-104-24c-11.3-2.6-22.9 3.3-27.5 13.9l-48 112c-4.2 9.8-1.4 21.3 6.9 28l60.6 49.6c-36 76.7-98.9 140.5-177.2 177.2l-49.6-60.6c-6.8-8.3-18.2-11.1-28-6.9l-112 48C3.9 366.5-2 378.1.6 389.4l24 104C27.1 504.2 36.7 512 48 512c256.1 0 464-207.5 464-464 0-11.2-7.7-20.9-18.6-23.4z\",\"viewbox\":\"0 0 512 512\"}"}]}},"advanced-footer-widget-1":{"media_image-8":{"attachment_id":899,"url":"https:\/\/websitedemos.net\/makeup-artist-free\/wp-content\/uploads\/sites\/43\/2017\/09\/make-up-logo-free-img.png","title":"","size":"full","width":200,"height":55,"caption":"","alt":"","link_type":"none","link_url":"","image_classes":"","link_classes":"","link_rel":"","link_target_blank":false,"image_title":""},"text-9":{"title":"","text":"Christina Koller\r\nA passionate makeup artist.","filter":true,"visual":true}},"advanced-footer-widget-2":{"text-13":{"title":"Call Us","text":"","filter":true,"visual":true},"text-16":{"title":"","text":"Phone: +1 916-875-2235\r\nToll Free: +1 910-626-85255","filter":true,"visual":true}},"advanced-footer-widget-3":{"text-10":{"title":"Find Us","text":"","filter":true,"visual":true},"text-6":{"title":"","text":"123 Fifth Avenue, Opp Hut,\r\nNew York, USA. \r\n","filter":true,"visual":true}},"advanced-footer-widget-4":{"text-14":{"title":"Say Hi!","text":"","filter":true,"visual":true},"text-18":{"title":"","text":"info@example.com\r\ncontact@example.com","filter":true,"visual":true}}}
+Complete 
+Batch Process Started..
+Starter Templates - Importing Images for Blog name 'Nicco' (1)
+---- Processing Images from Widgets -----
+Source - https://websitedemos.net/makeup-artist-free/wp-content/uploads/sites/43/2017/09/make-up-logo-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/makeup-artist-free/wp-content/uploads/sites/43/2017/09/make-up-logo-free-img.png
+Log - {"id":"899","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2017\/09\/make-up-logo-free-img.png"}
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Page - for Gutenberg ---- "2"
+---- Processing WordPress Page - for Gutenberg ---- "401"
+---- Processing WordPress Page - for Gutenberg ---- "99"
+---- Processing WordPress Page - for Gutenberg ---- "98"
+---- Processing WordPress Page - for Gutenberg ---- "97"
+---- Processing WordPress Posts / Pages - for Beaver Builder ----
+---- Processing WordPress Page - for Beaver Builder ---- "15"
+Source - http://localhost/site2/wp-content/uploads/2019/06/leaf-free-img.png
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2019/06/leaf-free-img.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2019\/06\/leaf-free-img.png","id":"1769"}
+Source - http://localhost/site2/wp-content/uploads/2020/02/logo-leaf-new.png
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2020/02/logo-leaf-new.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2020\/02\/logo-leaf-new.png","id":"2734"}
+Source - http://localhost/site2/wp-content/uploads/2019/06/app-store.png
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2019/06/app-store.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2019\/06\/app-store.png","id":"1855"}
+Source - http://localhost/site2/wp-content/uploads/2019/06/play-store.png
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2019/06/play-store.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2019\/06\/play-store.png","id":"1857"}
+Source - http://localhost/site2/wp-content/uploads/2019/07/organic-store-white-logo.png
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2019/07/organic-store-white-logo.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2019\/07\/organic-store-white-logo.png","id":"2569"}
+---- Processing WordPress Page - for Beaver Builder ---- "96"
+Source - http://localhost/site2/wp-content/uploads/2019/06/leaf-free-img.png
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2019/06/leaf-free-img.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2019\/06\/leaf-free-img.png","id":"1769"}
+Source - http://localhost/site2/wp-content/uploads/2020/01/image-02.jpg
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2020/01/image-02.jpg - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2020\/01\/image-02.jpg","id":"2720"}
+Source - http://localhost/site2/wp-content/uploads/2020/02/star-rating.png
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2020/02/star-rating.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2020\/02\/star-rating.png","id":"2742"}
+Source - http://localhost/site2/wp-content/uploads/2019/06/y10.png
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2019/06/y10.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2019\/06\/y10.png","id":"1884"}
+Source - http://localhost/site2/wp-content/uploads/2019/06/organic-badge-freeimg.png
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2019/06/organic-badge-freeimg.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2019\/06\/organic-badge-freeimg.png","id":"2032"}
+Source - http://localhost/site2/wp-content/uploads/2020/02/logo-leaf-new.png
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2020/02/logo-leaf-new.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2020\/02\/logo-leaf-new.png","id":"2734"}
+Source - http://localhost/site2/wp-content/uploads/2019/06/app-store.png
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2019/06/app-store.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2019\/06\/app-store.png","id":"1855"}
+Source - http://localhost/site2/wp-content/uploads/2019/06/play-store.png
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2019/06/play-store.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2019\/06\/play-store.png","id":"1857"}
+Source - http://localhost/site2/wp-content/uploads/2019/07/organic-store-white-logo.png
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2019/07/organic-store-white-logo.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2019\/07\/organic-store-white-logo.png","id":"2569"}
+Source - http://localhost/site2/wp-content/uploads/2020/01/banner-01-1.jpg
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2020/01/banner-01-1.jpg - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2020\/01\/banner-01-1.jpg","id":"2715"}
+---- Processing WordPress Page - for Beaver Builder ---- "95"
+Source - http://localhost/site2/wp-content/uploads/2020/02/logo-leaf-new.png
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2020/02/logo-leaf-new.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2020\/02\/logo-leaf-new.png","id":"2734"}
+Source - http://localhost/site2/wp-content/uploads/2020/02/organic-products.png
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2020/02/organic-products.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2020\/02\/organic-products.png","id":"2728"}
+Source - http://localhost/site2/wp-content/uploads/2020/02/logo-leaf-new.png
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2020/02/logo-leaf-new.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2020\/02\/logo-leaf-new.png","id":"2734"}
+Source - http://localhost/site2/wp-content/uploads/2019/07/product01-free-img.jpg
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2019/07/product01-free-img.jpg - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2019\/07\/product01-free-img.jpg","id":"2532"}
+Source - http://localhost/site2/wp-content/uploads/2019/07/product03-free-img.jpg
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2019/07/product03-free-img.jpg - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2019\/07\/product03-free-img.jpg","id":"2531"}
+Source - http://localhost/site2/wp-content/uploads/2019/07/product02-free-img.jpg
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2019/07/product02-free-img.jpg - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2019\/07\/product02-free-img.jpg","id":"2533"}
+Source - http://localhost/site2/wp-content/uploads/2020/02/logo-leaf-new.png
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2020/02/logo-leaf-new.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2020\/02\/logo-leaf-new.png","id":"2734"}
+Source - http://localhost/site2/wp-content/uploads/2019/06/logo-leaf2-free-img.png
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2019/06/logo-leaf2-free-img.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2019\/06\/logo-leaf2-free-img.png","id":"2137"}
+Source - http://localhost/site2/wp-content/uploads/2020/02/logo-leaf-new.png
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2020/02/logo-leaf-new.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2020\/02\/logo-leaf-new.png","id":"2734"}
+Source - http://localhost/site2/wp-content/uploads/2020/02/stars.jpg
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2020/02/stars.jpg - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2020\/02\/stars.jpg","id":"2735"}
+Source - http://localhost/site2/wp-content/uploads/2019/06/y10.png
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2019/06/y10.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2019\/06\/y10.png","id":"1884"}
+Source - http://localhost/site2/wp-content/uploads/2019/06/sydney-rae-668606-unsplash-scaled.jpg
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2019/06/sydney-rae-668606-unsplash-scaled.jpg - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2019\/06\/sydney-rae-668606-unsplash-scaled.jpg","id":"1895"}
+Source - http://localhost/site2/wp-content/uploads/2020/02/stars.jpg
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2020/02/stars.jpg - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2020\/02\/stars.jpg","id":"2735"}
+Source - http://localhost/site2/wp-content/uploads/2019/06/y11.png
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2019/06/y11.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2019\/06\/y11.png","id":"1885"}
+Source - http://localhost/site2/wp-content/uploads/2019/06/leaf-free-img.png
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2019/06/leaf-free-img.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2019\/06\/leaf-free-img.png","id":"1769"}
+Source - http://localhost/site2/wp-content/uploads/2019/06/logo01-free-img.png
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2019/06/logo01-free-img.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2019\/06\/logo01-free-img.png","id":"1831"}
+Source - http://localhost/site2/wp-content/uploads/2019/06/logo02-free-img.png
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2019/06/logo02-free-img.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2019\/06\/logo02-free-img.png","id":"1835"}
+Source - http://localhost/site2/wp-content/uploads/2019/06/logo04-free-img.png
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2019/06/logo04-free-img.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2019\/06\/logo04-free-img.png","id":"1851"}
+Source - http://localhost/site2/wp-content/uploads/2019/06/logo03-free-img.png
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2019/06/logo03-free-img.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2019\/06\/logo03-free-img.png","id":"1839"}
+Source - http://localhost/site2/wp-content/uploads/2019/06/logo05-free-img.png
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2019/06/logo05-free-img.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2019\/06\/logo05-free-img.png","id":"1853"}
+Source - http://localhost/site2/wp-content/uploads/2019/06/app-store.png
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2019/06/app-store.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2019\/06\/app-store.png","id":"1855"}
+Source - http://localhost/site2/wp-content/uploads/2019/06/play-store.png
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2019/06/play-store.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2019\/06\/play-store.png","id":"1857"}
+Source - http://localhost/site2/wp-content/uploads/2019/07/organic-store-white-logo.png
+BATCH - SKIP Image - {from filter} - http://localhost/site2/wp-content/uploads/2019/07/organic-store-white-logo.png - Filter name `astra_sites_image_importer_skip_image`.
+Log - {"url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2019\/07\/organic-store-white-logo.png","id":"2569"}
+---- Processing WordPress Page - for Beaver Builder ---- "46"
+Source - https://websitedemos.net/makeup-artist-01/wp-content/uploads/sites/81/2017/08/AboutHeaderBG-free-img.jpg
+Log - {"id":"2754","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2017\/08\/AboutHeaderBG-free-img.jpg"}
+---- Processing WordPress Page - for Beaver Builder ---- "2753"
+Source - https://websitedemos.net/makeup-artist-01/wp-content/uploads/sites/81/2017/08/AboutHeaderBG-free-img.jpg
+Log - {"id":"2754","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2017\/08\/AboutHeaderBG-free-img.jpg"}
+Source - https://websitedemos.net/makeup-artist-uabb-free/wp-content/uploads/sites/81/2017/08/Hair-color-free-img.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/makeup-artist-uabb-free/wp-content/uploads/sites/81/2017/08/Hair-color-free-img.jpg
+Log - {"id":"272","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2017\/08\/Hair-color-free-img.jpg"}
+Source - https://websitedemos.net/makeup-artist-uabb-free/wp-content/uploads/sites/81/2017/08/Makeup-Girldoingmakeup-free-img.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/makeup-artist-uabb-free/wp-content/uploads/sites/81/2017/08/Makeup-Girldoingmakeup-free-img.jpg
+Log - {"id":"262","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2017\/08\/Makeup-Girldoingmakeup-free-img.jpg"}
+Source - https://websitedemos.net/makeup-artist-uabb-free/wp-content/uploads/sites/81/2017/08/Bride-gallery-free-img.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/makeup-artist-uabb-free/wp-content/uploads/sites/81/2017/08/Bride-gallery-free-img.jpg
+Log - {"id":"513","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2017\/08\/Bride-gallery-free-img.jpg"}
+Source - https://websitedemos.net/makeup-artist-uabb-free/wp-content/uploads/sites/81/2017/08/Makeup-Kit-free-img.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/makeup-artist-uabb-free/wp-content/uploads/sites/81/2017/08/Makeup-Kit-free-img.jpg
+Log - {"id":"127","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2017\/08\/Makeup-Kit-free-img.jpg"}
+Source - https://websitedemos.net/makeup-artist-uabb-free/wp-content/uploads/sites/81/2017/08/Makeup-doingmakeup-free-img.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/makeup-artist-uabb-free/wp-content/uploads/sites/81/2017/08/Makeup-doingmakeup-free-img.jpg
+Log - {"id":"128","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2017\/08\/Makeup-doingmakeup-free-img.jpg"}
+Source - https://websitedemos.net/makeup-artist-uabb-free/wp-content/uploads/sites/81/2017/08/Nail-paint-free-img.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/makeup-artist-uabb-free/wp-content/uploads/sites/81/2017/08/Nail-paint-free-img.jpg
+Log - {"id":"511","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2017\/08\/Nail-paint-free-img.jpg"}
+Source - https://websitedemos.net/makeup-artist-uabb-free/wp-content/uploads/sites/81/2017/08/Working-on-makeup-free-img.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/makeup-artist-uabb-free/wp-content/uploads/sites/81/2017/08/Working-on-makeup-free-img.jpg
+Log - {"id":"512","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2017\/08\/Working-on-makeup-free-img.jpg"}
+Source - https://websitedemos.net/makeup-artist-uabb-free/wp-content/uploads/sites/81/2017/08/Model-makeup-gallery-free-img.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/makeup-artist-uabb-free/wp-content/uploads/sites/81/2017/08/Model-makeup-gallery-free-img.jpg
+Log - {"id":"518","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2017\/08\/Model-makeup-gallery-free-img.jpg"}
+Source - https://websitedemos.net/makeup-artist-01/wp-content/uploads/sites/81/2017/08/GlitterBG-free-img.jpg
+Log - {"id":"628","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2017\/08\/GlitterBG-free-img.jpg"}
+Source - https://websitedemos.net/makeup-artist-01/wp-content/uploads/sites/81/2020/02/before2.jpg
+Log - {"id":"1066","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2020\/02\/before2.jpg"}
+Source - https://websitedemos.net/makeup-artist-01/wp-content/uploads/sites/81/2020/02/after2.jpg
+Log - {"id":"1067","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2020\/02\/after2.jpg"}
+Source - https://websitedemos.net/makeup-artist-01/wp-content/uploads/sites/81/2020/02/before1.jpg
+Log - {"id":"1064","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2020\/02\/before1.jpg"}
+Source - https://websitedemos.net/makeup-artist-01/wp-content/uploads/sites/81/2020/02/after1.jpg
+Log - {"id":"1065","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2020\/02\/after1.jpg"}
+---- Processing WordPress Page - for Beaver Builder ---- "44"
+Source - https://websitedemos.net/makeup-artist-01/wp-content/uploads/sites/81/2017/08/AboutHeaderBG-free-img.jpg
+Log - {"id":"2754","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2017\/08\/AboutHeaderBG-free-img.jpg"}
+Source - https://websitedemos.net/makeup-artist-uabb-free/wp-content/uploads/sites/81/2017/08/Nail-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/makeup-artist-uabb-free/wp-content/uploads/sites/81/2017/08/Nail-free-img.png
+Log - {"id":"224","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2017\/08\/Nail-free-img.png"}
+Source - https://websitedemos.net/makeup-artist-01/wp-content/uploads/sites/81/2017/08/GlitterBG-free-img.jpg
+Log - {"id":"628","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2017\/08\/GlitterBG-free-img.jpg"}
+Source - https://websitedemos.net/makeup-artist-01/wp-content/uploads/sites/81/2020/02/bridal-makeup1.jpg
+Log - {"id":"1055","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2020\/02\/bridal-makeup1.jpg"}
+Source - https://websitedemos.net/makeup-artist-01/wp-content/uploads/sites/81/2017/08/Number-I-free-img.png
+Log - {"id":"873","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2017\/08\/Number-I-free-img.png"}
+Source - https://websitedemos.net/makeup-artist-01/wp-content/uploads/sites/81/2017/08/Number-II-free-img.png
+Log - {"id":"874","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2017\/08\/Number-II-free-img.png"}
+Source - https://websitedemos.net/makeup-artist-01/wp-content/uploads/sites/81/2017/08/Number-III-free-img.png
+Log - {"id":"875","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2017\/08\/Number-III-free-img.png"}
+Source - https://websitedemos.net/makeup-artist-01/wp-content/uploads/sites/81/2017/08/Salon-free-img.png
+Log - {"id":"223","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2017\/08\/Salon-free-img.png"}
+Source - https://websitedemos.net/makeup-artist-01/wp-content/uploads/sites/81/2017/08/Relax-free-img.png
+Log - {"id":"441","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2017\/08\/Relax-free-img.png"}
+Source - https://websitedemos.net/makeup-artist-01/wp-content/uploads/sites/81/2017/08/Hot-stones-free-img.png
+Log - {"id":"219","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2017\/08\/Hot-stones-free-img.png"}
+Source - https://websitedemos.net/makeup-artist-01/wp-content/uploads/sites/81/2017/08/Cosmetics-free-img.png
+Log - {"id":"438","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2017\/08\/Cosmetics-free-img.png"}
+Source - https://websitedemos.net/makeup-artist-01/wp-content/uploads/sites/81/2017/08/Kiss-free-img.png
+Log - {"id":"440","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2017\/08\/Kiss-free-img.png"}
+---- Processing WordPress Page - for Beaver Builder ---- "43"
+Source - https://websitedemos.net/makeup-artist-01/wp-content/uploads/sites/81/2017/08/AboutHeaderBG-free-img.jpg
+Log - {"id":"2754","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2017\/08\/AboutHeaderBG-free-img.jpg"}
+Source - https://websitedemos.net/makeup-artist-01/wp-content/uploads/sites/81/2020/02/profile-image.jpg
+Log - {"id":"1058","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2020\/02\/profile-image.jpg"}
+Source - https://websitedemos.net/makeup-artist-01/wp-content/uploads/sites/81/2017/08/GlitterBG-free-img.jpg
+Log - {"id":"628","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2017\/08\/GlitterBG-free-img.jpg"}
+Source - https://websitedemos.net/makeup-artist-01/wp-content/uploads/sites/81/2020/02/artist1.jpg
+Log - {"id":"1059","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2020\/02\/artist1.jpg"}
+Source - https://websitedemos.net/makeup-artist-01/wp-content/uploads/sites/81/2020/02/artist2.jpg
+Log - {"id":"1060","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2020\/02\/artist2.jpg"}
+Source - https://websitedemos.net/makeup-artist-01/wp-content/uploads/sites/81/2020/02/artist3.jpg
+Log - {"id":"1061","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2020\/02\/artist3.jpg"}
+---- Processing WordPress Page - for Beaver Builder ---- "2752"
+Source - https://websitedemos.net/makeup-artist-01/wp-content/uploads/sites/81/2020/02/home-banner.jpg
+Log - {"id":"1051","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2020\/02\/home-banner.jpg"}
+Source - https://websitedemos.net/makeup-artist-01/wp-content/uploads/sites/81/2020/02/models.png
+Log - {"id":"1052","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2020\/02\/models.png"}
+Source - https://websitedemos.net/makeup-artist-01/wp-content/uploads/sites/81/2017/08/Engagement-Ring-free-img.png
+Log - {"id":"411","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2017\/08\/Engagement-Ring-free-img.png"}
+Source - https://websitedemos.net/makeup-artist-01/wp-content/uploads/sites/81/2017/08/Romantic-Music-free-img.png
+Log - {"id":"414","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2017\/08\/Romantic-Music-free-img.png"}
+Source - https://websitedemos.net/makeup-artist-01/wp-content/uploads/sites/81/2017/08/Lipstick-free-img.png
+Log - {"id":"412","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2017\/08\/Lipstick-free-img.png"}
+Source - https://websitedemos.net/makeup-artist-01/wp-content/uploads/sites/81/2017/08/Photo-Camera-free-img.png
+Log - {"id":"413","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2017\/08\/Photo-Camera-free-img.png"}
+Source - https://websitedemos.net/makeup-artist-01/wp-content/uploads/sites/81/2017/08/GlitterBG-free-img.jpg
+Log - {"id":"628","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2017\/08\/GlitterBG-free-img.jpg"}
+Source - https://websitedemos.net/makeup-artist-01/wp-content/uploads/sites/81/2020/02/bridal-makeup1.jpg
+Log - {"id":"1055","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2020\/02\/bridal-makeup1.jpg"}
+Source - https://websitedemos.net/makeup-artist-01/wp-content/uploads/sites/81/2020/02/bridal-makeup2.jpg
+Log - {"id":"1054","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2020\/02\/bridal-makeup2.jpg"}
+Source - https://websitedemos.net/makeup-artist-01/wp-content/uploads/sites/81/2020/02/bridal-makeup3.jpg
+Log - {"id":"1053","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2020\/02\/bridal-makeup3.jpg"}
+Source - https://websitedemos.net/makeup-artist-uabb-free/wp-content/uploads/sites/81/2017/08/Modal-free-img.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/makeup-artist-uabb-free/wp-content/uploads/sites/81/2017/08/Modal-free-img.jpg
+Log - {"url":"https:\/\/websitedemos.net\/makeup-artist-uabb-free\/wp-content\/uploads\/sites\/81\/2017\/08\/Modal-free-img.jpg","id":"858"}
+Inserted - Post 2756 - attachment - Modal-free-img.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost/site2/wp-content/uploads/2020/04/Modal-free-img.jpg
+Source - https://websitedemos.net/makeup-artist-01/wp-content/uploads/sites/81/2020/02/bridal-makeup2.jpg
+Log - {"id":"1054","url":"http:\/\/localhost\/site2\/wp-content\/uploads\/2020\/02\/bridal-makeup2.jpg"}
+---- Processing MISC ----
+Post ID: 472
+Post ID: 471
+Post ID: 470
+Post ID: 406
+Post ID: 343
+Post ID: 344
+Post ID: 337
+Post ID: 311
+Post ID: 54
+Post ID: 53
+Batch Process Complete!
